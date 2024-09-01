@@ -1,10 +1,7 @@
 langchain 
 langchain_community
-python-dotenv
 langchain-openai 
-langchain-chroma
 langchain_core
-langchain_text_splitters
 streamlit
 
 -e .
